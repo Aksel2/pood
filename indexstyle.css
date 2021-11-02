@@ -82,3 +82,7 @@ body{
     border-radius: 5px;
     background-color: brown;
 }
+#map {
+    height: 400px;
+    width: 100%;
+  }
