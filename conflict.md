@@ -1,2 +1,2 @@
-Poe projekt, lisada esileht.
+Poe projekt, muuda seda esilehte.
 Lisada hinnakiri.
